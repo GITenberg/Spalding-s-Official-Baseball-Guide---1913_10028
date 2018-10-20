@@ -19,7 +19,7 @@ Release Date: October 12, 2003  [eBook #10028]
 
 Language: English
 
-Chatacter set encoding: US-ASCII
+Character set encoding: US-ASCII
 
 
 ***START OF THE PROJECT GUTENBERG EBOOK SPALDING'S OFFICIAL BASEBALL GUIDE
